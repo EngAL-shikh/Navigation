@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">NavigationDrawer</string>
+    <string name="nav_open">nav open</string>
+    <string name="nav_cose">nav close</string>
+    <string name="profile"> profile</string>
+    <string name="people">people</string>
+    <string name="settings">settings</string>
+</resources>
